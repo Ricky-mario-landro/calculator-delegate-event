@@ -1,0 +1,10 @@
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe.config
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.exe
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\bin\Debug\Calculatorbaru.pdb
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csprojResolveAssemblyReference.cache
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form1.resources
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Form2.resources
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.Properties.Resources.resources
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.GenerateResource.Cache
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.exe
+D:\MODUL SEMESTER MATA KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\tugas\CalculatorEvent-master\Calculatorbaru\obj\Debug\Calculatorbaru.pdb
